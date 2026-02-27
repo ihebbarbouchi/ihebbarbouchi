@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Je suis actuellement en train de travailler sur une application web full-stack pour mon projet de fin d’études<br> en utilisant Laravel et Next.js. Je cherche à collaborer sur des projets de développement web, surtout <br>des applications full-stack et des projets open-source. <br>Je cherche aussi de l’aide pour améliorer mon architecture backend et apprendre les bonnes pratiques. <br>Actuellement, j’apprends les technologies web modernes comme JavaScript avancé, Next.js et l’optimisation<br> avec Laravel
+Je suis étudiant en informatique avec une formation axée sur le développement web et les technologies modernes. J’ai réalisé plusieurs projets académiques et pratiques pour développer mes compétences en programmation, bases de données et développement full-stack. Actuellement, je travaille sur mon projet de fin d’études (PFE) où je développe une application web en utilisant Laravel pour le backend et Next.js pour le frontend
 
 
 # 💻 Tech Stack:
